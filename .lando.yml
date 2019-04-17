@@ -1,0 +1,4 @@
+name: laravel-practice
+recipe: laravel
+config:
+  webroot: ./public
